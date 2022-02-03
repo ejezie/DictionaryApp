@@ -32,3 +32,5 @@ if type(output) is list:
         print(item)
 else:
     print(output)
+
+print('done')
